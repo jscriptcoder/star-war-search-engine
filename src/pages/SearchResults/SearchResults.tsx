@@ -1,4 +1,3 @@
-import { Divider } from '@mui/material'
 import Search from '../../components/Search'
 import LoadingResults from './LoadingResults'
 import TabResults from './TabResults'

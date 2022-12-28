@@ -1,5 +1,5 @@
 import Person4TwoToneIcon from '@mui/icons-material/Person4TwoTone'
-import { Alert, Snackbar } from '@mui/material'
+import { Alert } from '@mui/material'
 import EntityTable from '../../components/EntityTable/EntityTable'
 import Search from '../../components/Search'
 import { Character as CharacterType, SearchCategory } from '../../types'

@@ -1,5 +1,5 @@
 import { Tab, Tabs } from '@mui/material'
-import { SyntheticEvent, useCallback, useMemo, useState } from 'react'
+import { SyntheticEvent, useCallback, useState } from 'react'
 import { SearchResultValue } from '../../../types'
 import TabResultPanel from './TabResultPanel'
 

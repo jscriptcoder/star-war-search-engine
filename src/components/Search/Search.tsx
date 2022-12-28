@@ -40,7 +40,7 @@ export default function Search({
         !widget ? 'w-[50%] justify-center items-center' : '',
       )}
     >
-      {!widget && <img src={startWarLogo} className="w-[360px]" />}
+      {!widget && <img alt="Star War logo" src={startWarLogo} className="w-[360px]" />}
 
       <TextField
         className="w-full"

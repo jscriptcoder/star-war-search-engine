@@ -15,7 +15,7 @@ export default async function search(
 
   const categoriesToSearchIn: SearchCategory[] = []
 
-  if (category == SearchCategory.ALL) {
+  if (category === SearchCategory.ALL) {
     categoriesToSearchIn.push(
       ...Object.values(SearchCategory).filter(
         (category) => category !== SearchCategory.ALL,
