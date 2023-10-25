@@ -1,4 +1,4 @@
-# Coding Assignment
+# Star Wars search engine - Home Assignment Test
 The goal of this assignment is to build a small React application that lets you search and display information from the Star Wars movies (no knowledge of SW is required). The data needed will be queried from [SWAPI (Star Wars API)](https://swapi.dev/) which is an open testing API.
 
 ## Overview
